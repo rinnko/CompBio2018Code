@@ -3,7 +3,7 @@
 int main(void){
   double r, x, x250, xx, k;
   int t;
-  x250=93.0;
+  x250=100.0;
   k=100.0;
 
   FILE *fp;
